@@ -7,7 +7,7 @@ The protocol essentially creates a floor price for any NFT types included, so it
 ## Overview
 Any NFT type included can be wrapped into a fungible single type of ERC-20 token, a Wrapped Mystery NFT (WMN), and traded on Sushiswap, Uniswap, or anywhere else that there is shared liquidity. Any WMN token can be unwrapped, and exchanged for what ever the most recently wrapped NFT was. This creates a stack of NFTs that are locked into the protocol, that back WMN tokens 1:1 in value.
 
-To decide which types of NFTs should be allowed to be included in the protocol, there needs to be a community governance protocol. So another regular ERC-20 token, called DANCE, is used by the community to vote on which to include, and what multiplier to give it. 
+To decide which types of NFTs should be allowed to be included in the protocol, there needs to be a community governance protocol. So another regular ERC-20 token, called DANCE, is used by the community to vote on which NFT types to include, and what multiplier to give it. 
 
 Users can acquire DANCE tokens, to participate in governance, in several ways.
 
