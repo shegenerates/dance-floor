@@ -43,4 +43,4 @@ Current planned governance token airdrop will include these groups:
 - @Shegenerates followers
 
 ### Farms
-Providing liquidity
+Providing liquidity is a valuable service to the project because it makes the price floor less volatile and the protocol more stable. It also makes it easier to join when there is more accessible liquidity available. Because of this, liquidity providers should be rewarded in governance tokens, in our case this is DANCE.
