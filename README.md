@@ -27,9 +27,9 @@ In order to incentivize NFT holders + creators to contribute to the Dance Floor 
 7% reward to founding members vested over 3 years.
 
 ### Air drop
-This will change over time and depend on snapshot dates. Check the airdrop repo for specifics.
+This will change over time and depend on snapshot dates. Check the airdrop repo for specifics: https://github.com/shegenerates/DANCE-recipients
 
-Current planned governance token airdrop will include these groups:
+Current planned governance token airdrop will include these groups, but this list will change before the airdrop. Check the DANCE recipients repo for the updated list:
 - Minters on Foundation who have sold work above 1 ETH
 - Minters on Super Rare who have sold work above 1 ETH
 - Minters on Rariable who have sold work above 1 ETH
@@ -44,6 +44,7 @@ Current planned governance token airdrop will include these groups:
 - Gen0 Cryptokitty holders
 - Decentraland parcel holders
 - Cryptovoxels area holders
+- Misfit University holders / minters
 - @Shegenerates followers
 
 ### Farms
